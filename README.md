@@ -12,4 +12,4 @@ GPT-4 (Limited access and slow, but smarter):
 https://www.icloud.com/shortcuts/21d82ba4eeb24b588ec7a85a25330543
 
 
-Credit to original idea: https://twitter.com/mckaywrigley/status/1640414764852711425
+Credit to original idea (I added logging and memory): https://twitter.com/mckaywrigley/status/1640414764852711425
