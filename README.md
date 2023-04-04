@@ -6,7 +6,7 @@ I highly recommend using this while walking or driving, as you no longer need to
 ## Setup
 1. Import one of the shortcuts into your iOS device from the links below. 
 2. You'll be prompted for an OpenAI API key when your first import the shortcut. [Get your key here.](https://platform.openai.com/account/api-keys)
-3. Create bookmark to the shortcut on your homescreen or as a complication on your Apple Watch.
+3. Create a bookmark to the shortcut on your homescreen or as a complication on your Apple Watch.
 
 ### [GPT-3.5](https://www.icloud.com/shortcuts/ef38caf11c374a9f9630899ee63c5ffb)
 (Everyone can access and it's fast): 
