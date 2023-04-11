@@ -9,17 +9,15 @@ I highly recommend using this while walking or driving, as you no longer need to
 3. Create a bookmark to the shortcut on your homescreen or as a complication on your Apple Watch.
 
 ### [GPT-3.5](https://www.icloud.com/shortcuts/ef38caf11c374a9f9630899ee63c5ffb)
-(Everyone can access and it's fast): 
-
-
+(Everyone can access and it's fast)
 
 
 ### [GPT-4](https://www.icloud.com/shortcuts/21d82ba4eeb24b588ec7a85a25330543) 
-(Limited access and slow, but smarter): 
+(Limited access and slow, but smarter)
 
 
 ### [Apple Watch version](https://www.icloud.com/shortcuts/559ca54453ce446193a3c580403d90d1) `NEW`
-(I took out the logging function, so it can work on watches. Add it as a complication... it's sick.):
+(I took out the logging function, so it can work on watches. Add it as a complication on your watch face.)
 
 
 
@@ -27,7 +25,7 @@ I highly recommend using this while walking or driving, as you no longer need to
 [The original idea](https://twitter.com/mckaywrigley/status/1640414764852711425) 
 (I added logging and memory)
 
-## Source code (lol)
+## "Source code"
 ![siri-gpt-pics1](https://user-images.githubusercontent.com/123516285/228938982-7f3cc933-71c1-478f-ad7e-02f773755d7e.png)
 
 ![siri-gpt-pics2](https://user-images.githubusercontent.com/123516285/228939028-06129caa-9b68-47d5-b61c-8badcb7e5036.png)
