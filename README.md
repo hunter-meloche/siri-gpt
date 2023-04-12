@@ -1,7 +1,7 @@
 # siri-gpt
-Talk to ChatGPT through voice on your iOS device. It saves your conversation logs into the Notes app and remembers your last prompt/response to allow for continuous conversations.
+Talk to ChatGPT through voice on your iOS or macOS device. It saves your conversation logs into the Notes app and remembers your last prompt/response to allow for continuous conversations.
 
-I highly recommend using this while walking or driving, as you no longer need to use your eyes or type. At the end of every response you need to press 'yes' or 'no' to continue the conversation. Other than that, you just talk to it. Activating it via voice is glitchy, so I'd recommend making an icon on your homescreen to activate it.
+For mobile users, I highly recommend using this while walking or driving, as you no longer need to use your eyes or type. At the end of every response you need to press 'yes' or 'no' to continue the conversation. Other than that, you just talk to it. Activating it via voice is glitchy, so I'd recommend making an icon on your homescreen to activate it.
 
 ## Setup
 1. Import one of the shortcuts into your iOS device from the links below. 
