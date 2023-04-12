@@ -17,7 +17,7 @@ For mobile users, I highly recommend using this while walking or driving, as you
 
 
 ### [Apple Watch version](https://www.icloud.com/shortcuts/559ca54453ce446193a3c580403d90d1) `NEW`
-(I took out the logging function, so it can work on watches. Add it as a complication on your watch face.)
+(I took out the logging function, so it can work on watches. Add it as a complication on your watch face. It uses GPT-3.5 by daefault and should work on any other iOS or macOS device.)
 
 
 
